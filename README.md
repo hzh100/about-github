@@ -1,7 +1,7 @@
 # about-github
 about-github
 
-```
+```javascript
   github page就大概两种，
       一种user page必须master分支，
       另一种project page需要给对应的project设置一个gh-pages分支，
